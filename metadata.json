@@ -1,0 +1,6 @@
+{
+  "name": "SakhiSetu - Rural Women Voice Gateway",
+  "description": "Zero-barrier multilingual voice companion enabling first-time rural women to independently access essential government schemes, emergency safety, gender essentials, local peer support, and skills in 12 regional languages.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
